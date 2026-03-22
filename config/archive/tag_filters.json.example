@@ -1,0 +1,58 @@
+{
+  "_comment": "Priority-Based Tag Filtering - Full Featured Example",
+  "enabled": false,
+  
+  "include_tags": [
+    "video"
+  ],
+  "include_keywords": [
+    "official",
+    "4k"
+  ],
+  
+  "exclude_tags": [
+    "audio",
+    "sticker"
+  ],
+  "exclude_keywords": [
+    "draft",
+    "private"
+  ],
+  
+  "size_limits": {
+    "min": "0B",
+    "max": "2GB"
+  },
+  
+  "filename_patterns": [
+    ".*\\.(mp4|mkv|webm|mov|avi)$",
+    ".*\\.(jpg|jpeg|png|webp)$"
+  ],
+  "filename_exclude": [
+    ".*\\.tmp$",
+    ".*sample.*",
+    ".*test.*"
+  ],
+  
+  "caption_keywords": [
+    "official",
+    "important"
+  ],
+  "caption_exclude": [
+    "draft",
+    "private"
+  ],
+  
+  "video_filters": {
+    "min_duration": 5,
+    "max_duration": 3600,
+    "min_resolution": 720
+  },
+  
+  "channel_rules": {
+    "-1001234567890": {
+      "enabled": true,
+      "include_tags": ["video"]
+    }
+  }
+}

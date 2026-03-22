@@ -1,0 +1,29 @@
+{
+  "_comment": "Priority-Based Tag Filtering - Exclude (hard skip) > Include (priority) > Default (allow)",
+  "enabled": false,
+  
+  "include_tags": [],
+  "include_keywords": [],
+  
+  "exclude_tags": [],
+  "exclude_keywords": [],
+  
+  "size_limits": {
+    "min": "0B",
+    "max": "0GB"
+  },
+  
+  "filename_patterns": [],
+  "filename_exclude": [],
+  
+  "caption_keywords": [],
+  "caption_exclude": [],
+  
+  "video_filters": {
+    "min_duration": 0,
+    "max_duration": 0,
+    "min_resolution": 0
+  },
+  
+  "channel_rules": {}
+}

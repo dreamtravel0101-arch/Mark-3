@@ -1,0 +1,8 @@
+[
+  {
+    "entity_id": 1234567890,
+    "entity_name": "Entity Name",
+    "entity_type": "user",
+    "first_seen": "2024-01-01T00:00:00"
+  }
+]

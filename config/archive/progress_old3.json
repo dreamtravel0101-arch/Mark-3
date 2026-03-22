@@ -1,0 +1,895 @@
+{
+    "uploads": {
+        "3209175125": {
+            "storage\\mirror\\3209175125\\000105\\media.jpg": 1056,
+            "storage\\mirror\\3209175125\\000133\\media.jpg": 1057,
+            "storage\\mirror\\3209175125\\000134\\media.jpg": 1058,
+            "storage\\mirror\\3209175125\\000135\\media.jpg": 1059,
+            "storage\\mirror\\3209175125\\000136\\media.jpg": 1060,
+            "storage\\mirror\\3209175125\\000350\\media.jpg": 1061,
+            "storage\\mirror\\3209175125\\000354\\media.jpg": 1062,
+            "storage\\mirror\\3209175125\\000395\\media.jpg": 1063,
+            "storage\\mirror\\3209175125\\000396\\media.jpg": 1064,
+            "storage\\mirror\\3209175125\\000397\\media.jpg": 1065,
+            "storage\\mirror\\3209175125\\000398\\media.jpg": 1066,
+            "storage\\mirror\\3209175125\\000400\\media.jpg": 1067,
+            "storage\\mirror\\3209175125\\000401\\media.jpg": 1068,
+            "storage\\mirror\\3209175125\\000402\\media.jpg": 1069,
+            "storage\\mirror\\3209175125\\000403\\media.jpg": 1070,
+            "storage\\mirror\\3760032798\\msg_000003\\3_caption.txt": 1081,
+            "storage\\mirror\\3760032798\\msg_000003\\3_media.jpg": 1081,
+            "storage\\mirror\\3760032798\\msg_000005\\5_caption.txt": 1083,
+            "storage\\mirror\\3760032798\\msg_000005\\5_media.jpg": 1083
+        },
+        "2947720099": {
+            "storage\\mirror\\3510251298\\000004\\media.mp4": 369,
+            "storage\\mirror\\3510251298\\000008\\media.mp4": 379,
+            "storage\\mirror\\3510251298\\000010\\media.mp4": 379,
+            "storage\\mirror\\3510251298\\000011\\media.mp4": 379,
+            "storage\\mirror\\3510251298\\000014\\media.mp4": 379,
+            "storage\\mirror\\3510251298\\000013\\media.mp4": 379,
+            "storage\\mirror\\3510251298\\000005\\media.mp4": 379,
+            "storage\\mirror\\3510251298\\000006\\media.mp4": 379,
+            "storage\\mirror\\3510251298\\000007\\media.mp4": 379,
+            "storage\\mirror\\3510251298\\000009\\media.mp4": 379,
+            "storage\\mirror\\3510251298\\000012\\media.mp4": 379,
+            "storage\\mirror\\3510251298\\000022\\media.mp4": 389,
+            "storage\\mirror\\3510251298\\000019\\media.mp4": 389,
+            "storage\\mirror\\3510251298\\000023\\media.mp4": 389,
+            "storage\\mirror\\3510251298\\000015\\media.mp4": 389,
+            "storage\\mirror\\3510251298\\000017\\media.mp4": 389,
+            "storage\\mirror\\3510251298\\000018\\media.mp4": 389,
+            "storage\\mirror\\3510251298\\000016\\media.mp4": 389,
+            "storage\\mirror\\3510251298\\000021\\media.mp4": 389,
+            "storage\\mirror\\3510251298\\000020\\media.mp4": 389,
+            "storage\\mirror\\3510251298\\000024\\media.mp4": 389,
+            "storage\\mirror\\3510251298\\000028\\media.mp4": 399,
+            "storage\\mirror\\3510251298\\000026\\media.mp4": 399,
+            "storage\\mirror\\3510251298\\000029\\media.mp4": 399,
+            "storage\\mirror\\3510251298\\000034\\media.mp4": 399,
+            "storage\\mirror\\3510251298\\000030\\media.mp4": 399,
+            "storage\\mirror\\3510251298\\000025\\media.mp4": 399,
+            "storage\\mirror\\3510251298\\000027\\media.mp4": 399,
+            "storage\\mirror\\3510251298\\000031\\media.mp4": 399,
+            "storage\\mirror\\3510251298\\000032\\media.mp4": 399,
+            "storage\\mirror\\3510251298\\000033\\media.mp4": 399,
+            "storage\\mirror\\3510251298\\album_14150493984178661\\39_media.mp4": 409,
+            "storage\\mirror\\3510251298\\album_14150493984178661\\35_media.mp4": 409,
+            "storage\\mirror\\3510251298\\album_14150493984178661\\42_media.mp4": 409,
+            "storage\\mirror\\3510251298\\album_14150493984178661\\41_media.mp4": 409,
+            "storage\\mirror\\3510251298\\album_14150493984178661\\37_media.mp4": 409,
+            "storage\\mirror\\3510251298\\album_14150493984178661\\44_media.mp4": 409,
+            "storage\\mirror\\3510251298\\album_14150493984178661\\38_media.mp4": 409,
+            "storage\\mirror\\3510251298\\album_14150493984178661\\43_media.mp4": 409,
+            "storage\\mirror\\3510251298\\album_14150493984178661\\36_media.mp4": 409,
+            "storage\\mirror\\3510251298\\album_14150493984178661\\40_media.mp4": 409,
+            "storage\\mirror\\3510251298\\msg_000051\\51_caption.txt": 456,
+            "storage\\mirror\\3510251298\\msg_000051\\51_media.mp4": 456,
+            "storage\\mirror\\3510251298\\msg_000052\\52_caption.txt": 458,
+            "storage\\mirror\\3510251298\\msg_000052\\52_media.mp4": 458,
+            "storage\\mirror\\3510251298\\msg_000053\\53_media.mp4": 459,
+            "storage\\mirror\\3510251298\\msg_000054\\54_media.mp4": 460,
+            "storage\\mirror\\3510251298\\msg_000055\\55_media.mp4": 461,
+            "storage\\mirror\\3510251298\\msg_000056\\56_media.jpg": 462,
+            "storage\\mirror\\3510251298\\msg_000057\\57_media.mp4": 463,
+            "storage\\mirror\\3510251298\\msg_000058\\58_media.mp4": 464,
+            "storage\\mirror\\3510251298\\msg_000059\\59_caption.txt": 466,
+            "storage\\mirror\\3510251298\\msg_000059\\59_media.jpg": 466,
+            "storage\\mirror\\3510251298\\msg_000060\\60_media.mp4": 467,
+            "storage\\mirror\\3510251298\\msg_000061\\61_media.mp4": 468,
+            "storage\\mirror\\3510251298\\album_14154909890442173\\74_media.mp4": 488,
+            "storage\\mirror\\3510251298\\album_14154909890442173\\76_media.mp4": 488,
+            "storage\\mirror\\3510251298\\album_14154909890442173\\75_media.mp4": 488,
+            "storage\\mirror\\3510251298\\album_14154909890442173\\78_media.mp4": 488,
+            "storage\\mirror\\3510251298\\album_14154909890442173\\79_media.mp4": 488,
+            "storage\\mirror\\3510251298\\album_14154909890442173\\80_media.mp4": 488,
+            "storage\\mirror\\3510251298\\album_14154909890442173\\77_media.mp4": 488,
+            "storage\\mirror\\3510251298\\album_14154909890442173\\83_media.mp4": 488,
+            "storage\\mirror\\3510251298\\album_14154909890442173\\82_media.mp4": 488,
+            "storage\\mirror\\3510251298\\album_14154909890442173\\81_media.mp4": 488,
+            "storage\\mirror\\3760032798\\album_14158716306736925\\7_media.jpg": 492,
+            "storage\\mirror\\3760032798\\album_14158716306736925\\8_media.jpg": 492,
+            "storage\\mirror\\3760032798\\album_14158716306736925\\6_caption.txt": 492,
+            "storage\\mirror\\3760032798\\album_14158716306736925\\6_media.jpg": 492,
+            "storage\\mirror\\3760032798\\msg_000009\\9_caption.txt": 494,
+            "storage\\mirror\\3760032798\\msg_000009\\9_media.mp4": 494,
+            "storage\\mirror\\3760032798\\album_14158716306736941\\10_caption.txt": 499,
+            "storage\\mirror\\3760032798\\album_14158716306736941\\10_media.jpg": 499,
+            "storage\\mirror\\3760032798\\album_14158716306736941\\12_media.jpg": 499,
+            "storage\\mirror\\3760032798\\album_14158716306736941\\11_media.jpg": 499,
+            "storage\\mirror\\3760032798\\album_14158716306736941\\13_media.jpg": 499,
+            "2874105678.mp4": 500,
+            "2874105678.jpg": 501,
+            "3699665376.mp4": 502,
+            "3789782545\\document_2026-02-09_17-04-50.mp4": 509
+        }
+    },
+    "downloads": {
+        "-1003209175125": [
+            105,
+            133,
+            134,
+            135,
+            136,
+            350,
+            354,
+            395,
+            396,
+            397,
+            398,
+            400,
+            401,
+            402,
+            403
+        ],
+        "-1003510251298": [
+            3,
+            4,
+            5,
+            8,
+            6,
+            10,
+            9,
+            12,
+            7,
+            13,
+            11,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            16,
+            21,
+            22,
+            23,
+            24,
+            26,
+            28,
+            27,
+            30,
+            25,
+            31,
+            33,
+            32,
+            34,
+            29,
+            36,
+            35,
+            37,
+            39,
+            38,
+            42,
+            43,
+            40,
+            44,
+            41
+        ]
+    },
+    "skipped": {
+        "uploads": [
+            {
+                "id": 3,
+                "src": {
+                    "id": 3789782545,
+                    "title": "কচি পমপম ভিডিও",
+                    "username": "pompopm2"
+                },
+                "tgt": {
+                    "id": 2947720099,
+                    "title": "Fou 02 (Forward)",
+                    "username": null
+                }
+            },
+            {
+                "id": 4,
+                "src": {
+                    "id": 3789782545,
+                    "title": "কচি পমপম ভিডিও",
+                    "username": "pompopm2"
+                },
+                "tgt": {
+                    "id": 2947720099,
+                    "title": "Fou 02 (Forward)",
+                    "username": null
+                }
+            }
+        ],
+        "downloads": [
+            {
+                "id": 12,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 41,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 56,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 88,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 132,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 174,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 279,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 347,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 349,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 357,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 359,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 360,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 363,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 364,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 365,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 367,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 369,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 370,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 371,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 372,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 373,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 374,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 375,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 376,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 377,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 378,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 379,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 380,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 381,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 382,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 383,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 384,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 385,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 399,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 105,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 133,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 134,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 135,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 136,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 350,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 354,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 395,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 396,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 397,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 398,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 400,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 401,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 402,
+                "src": {
+                    "id": 3209175125,
+                    "title": "Just Fun",
+                    "username": null
+                }
+            },
+            {
+                "id": 3,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 4,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 5,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 15,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 25,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 35,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 45,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 46,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 47,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 49,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 50,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 51,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 52,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 53,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 54,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 55,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 56,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 57,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 58,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 59,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 60,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 61,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 74,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 84,
+                "src": {
+                    "id": 3510251298,
+                    "title": "Sexy",
+                    "username": null
+                }
+            },
+            {
+                "id": 3,
+                "src": {
+                    "id": 3760032798,
+                    "title": "BANGLA PREMIUM",
+                    "username": "bangla_priuam"
+                }
+            },
+            {
+                "id": 5,
+                "src": {
+                    "id": 3760032798,
+                    "title": "BANGLA PREMIUM",
+                    "username": "bangla_priuam"
+                }
+            },
+            {
+                "id": 6,
+                "src": {
+                    "id": 3760032798,
+                    "title": "BANGLA PREMIUM",
+                    "username": "bangla_priuam"
+                }
+            },
+            {
+                "id": 9,
+                "src": {
+                    "id": 3760032798,
+                    "title": "BANGLA PREMIUM",
+                    "username": "bangla_priuam"
+                }
+            },
+            {
+                "id": 10,
+                "src": {
+                    "id": 3760032798,
+                    "title": "BANGLA PREMIUM",
+                    "username": "bangla_priuam"
+                }
+            },
+            {
+                "id": 2,
+                "src": {
+                    "id": 2874105678,
+                    "title": "Fou(New)",
+                    "username": null
+                }
+            },
+            {
+                "id": 3,
+                "src": {
+                    "id": 2874105678,
+                    "title": "Fou(New)",
+                    "username": null
+                }
+            },
+            {
+                "id": 4,
+                "src": {
+                    "id": 2874105678,
+                    "title": "Fou(New)",
+                    "username": null
+                }
+            },
+            {
+                "id": 5,
+                "src": {
+                    "id": 2874105678,
+                    "title": "Fou(New)",
+                    "username": null
+                }
+            },
+            {
+                "id": 6,
+                "src": {
+                    "id": 2874105678,
+                    "title": "Fou(New)",
+                    "username": null
+                }
+            },
+            {
+                "id": 8,
+                "src": {
+                    "id": 2874105678,
+                    "title": "Fou(New)",
+                    "username": null
+                }
+            },
+            {
+                "id": 9,
+                "src": {
+                    "id": 2874105678,
+                    "title": "Fou(New)",
+                    "username": null
+                }
+            },
+            {
+                "id": 11,
+                "src": {
+                    "id": 2874105678,
+                    "title": "Fou(New)",
+                    "username": null
+                }
+            }
+        ]
+    },
+    "failed": {
+        "uploads": [],
+        "downloads": []
+    },
+    "last_processed": {
+        "3209175125__TO__3209175125": 401,
+        "3510251298__TO__2947720099": 74,
+        "3760032798__TO__3209175125": 5,
+        "3760032798__TO__2947720099": 10,
+        "2874105678__TO__2947720099": 10,
+        "3699665376__TO__2947720099": 3,
+        "3789782545__TO__2947720099": 3
+    }
+}

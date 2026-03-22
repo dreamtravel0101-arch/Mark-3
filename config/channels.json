@@ -1,0 +1,24 @@
+{
+    "channels": [
+        {
+            "name": "My Channel",
+            "id": "@mychannelusername"
+        },
+        {
+            "name": "Another Channel",
+            "id": 123456789
+        },
+        {
+            "name": "Guro",
+            "id": 2159222506
+        },
+        {
+            "name": "For forward",
+            "id": "https://t.me/+8PNonLs9YcI5ZjA9"
+        },
+        {
+            "name": "Sexy",
+            "id": "https://t.me/+QWOOPyeYnzZiZWI9"
+        }
+    ]
+}

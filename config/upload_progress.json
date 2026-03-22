@@ -1,0 +1,198 @@
+{
+    "uploads": {
+        "3630047648": {
+            "3630047648": [
+                "2",
+                "7",
+                "17",
+                "24",
+                "25"
+            ]
+        },
+        "downloaded": {
+            "3061255598": [
+                "250808",
+                "499782",
+                "972420",
+                "631802",
+                "283583",
+                "773282",
+                "914851",
+                "754236",
+                "607088",
+                "378931",
+                "570671",
+                "774249",
+                "843288",
+                "458623",
+                "987671"
+            ]
+        }
+    },
+    "upload_history": [
+        {
+            "source_id": "3630047648",
+            "target_id": "3630047648",
+            "msg_id": "2",
+            "telegram_msg_id": 265,
+            "timestamp": "2026-03-18T23:59:13.341979",
+            "status": "success"
+        },
+        {
+            "source_id": "3630047648",
+            "target_id": "3630047648",
+            "msg_id": "7",
+            "telegram_msg_id": 270,
+            "timestamp": "2026-03-19T00:00:11.586253",
+            "status": "success"
+        },
+        {
+            "source_id": "3630047648",
+            "target_id": "3630047648",
+            "msg_id": "17",
+            "telegram_msg_id": 280,
+            "timestamp": "2026-03-19T00:03:45.994468",
+            "status": "success"
+        },
+        {
+            "source_id": "3630047648",
+            "target_id": "3630047648",
+            "msg_id": "24",
+            "telegram_msg_id": 287,
+            "timestamp": "2026-03-19T00:09:08.814888",
+            "status": "success"
+        },
+        {
+            "source_id": "3630047648",
+            "target_id": "3630047648",
+            "msg_id": "25",
+            "telegram_msg_id": 297,
+            "timestamp": "2026-03-19T00:20:40.285891",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "250808",
+            "telegram_msg_id": 1036,
+            "timestamp": "2026-03-21T23:40:22.567546",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "499782",
+            "telegram_msg_id": 1037,
+            "timestamp": "2026-03-21T23:41:29.908385",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "972420",
+            "telegram_msg_id": 1038,
+            "timestamp": "2026-03-21T23:55:14.239057",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "631802",
+            "telegram_msg_id": 1039,
+            "timestamp": "2026-03-21T23:55:34.399841",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "283583",
+            "telegram_msg_id": 1040,
+            "timestamp": "2026-03-21T23:55:54.287808",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "773282",
+            "telegram_msg_id": 1041,
+            "timestamp": "2026-03-21T23:56:56.244080",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "914851",
+            "telegram_msg_id": 1042,
+            "timestamp": "2026-03-21T23:57:53.662059",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "754236",
+            "telegram_msg_id": 1043,
+            "timestamp": "2026-03-21T23:58:48.347874",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "607088",
+            "telegram_msg_id": 1044,
+            "timestamp": "2026-03-21T23:59:24.765892",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "378931",
+            "telegram_msg_id": 1045,
+            "timestamp": "2026-03-22T00:00:40.390538",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "570671",
+            "telegram_msg_id": 1046,
+            "timestamp": "2026-03-22T00:08:35.558733",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "774249",
+            "telegram_msg_id": 1046,
+            "timestamp": "2026-03-22T00:08:35.613717",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "843288",
+            "telegram_msg_id": 1046,
+            "timestamp": "2026-03-22T00:08:35.645265",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "458623",
+            "telegram_msg_id": 1046,
+            "timestamp": "2026-03-22T00:08:35.666651",
+            "status": "success"
+        },
+        {
+            "source_id": "downloaded",
+            "target_id": "3061255598",
+            "msg_id": "987671",
+            "telegram_msg_id": 1046,
+            "timestamp": "2026-03-22T00:08:35.695023",
+            "status": "success"
+        }
+    ],
+    "meta": {
+        "version": 1,
+        "last_updated": "2026-03-22T00:08:35.695023"
+    }
+}

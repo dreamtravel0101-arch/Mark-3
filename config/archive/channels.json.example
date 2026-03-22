@@ -1,0 +1,8 @@
+[
+  {
+    "channel_id": -1001234567890,
+    "channel_name": "Channel Name",
+    "username": "@channel_username",
+    "status": "active"
+  }
+]
